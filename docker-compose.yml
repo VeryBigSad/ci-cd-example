@@ -4,4 +4,4 @@ services:
   app:
     build: .
     restart: always
-    container_name: greeting-app
+    container_name: super-greeting-app
