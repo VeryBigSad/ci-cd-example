@@ -2,7 +2,7 @@ import time
 
 
 def print_greeting():
-    return "Hello, World!"
+    return "Hello, World! <злостная бага>"
 
 
 if __name__ == "__main__":
